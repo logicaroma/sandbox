@@ -3,7 +3,7 @@
 The sanbox projects made by Ramin Mohammadi (twitter.com/RMNZR)
 View the project in Could9 IDE http://c9.io/logicaroma/sandbox
 
-#Overview of Studies
+#Overview
 =======
 
  - Styling
@@ -14,11 +14,19 @@ View the project in Could9 IDE http://c9.io/logicaroma/sandbox
  - Web Development
   - Web Workers
   - NodeJS
+  - Hardware API's (e.g. camera, location)
 
  - Creative Coding
   - ProcessingJS
   - THREEJS
   - OpenFrameworks/ -Kinect
+
+#Overall Goals
+- be clear (clean/readable)
+- follow best practices
+- follow standards when possible
+- respect the Web
+
 
 #Case 1
 =======
