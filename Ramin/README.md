@@ -1,9 +1,7 @@
 #Introduction
-=======
 The sanbox projects made by Ramin Mohammadi (twitter.com/RMNZR)
 
 #Overview
-=======
 
  ## Styling
  To get up to date with the latest techniques/ experiments with CSS I'm planning to experiment with the following features.
@@ -20,7 +18,7 @@ The sanbox projects made by Ramin Mohammadi (twitter.com/RMNZR)
  * SVG
  * CSS
 
-### Next Generation Layout Techniques
+## Next Generation Layout Techniques
 Based on an article at [http://www.html5rocks.com/en/tutorials/casestudies/natgeo/](html5rocks)
   - Layout Independent
   - Responsive
@@ -31,26 +29,24 @@ Based on an article at [http://www.html5rocks.com/en/tutorials/casestudies/natge
  ## Development (Mobile/Web)
   - Web Workers
   - NodeJS
-<<<<<<< HEAD
   - Hardware API's (e.g. camera, location)
+  - Websockets
 
  - Creative Coding
   - ProcessingJS
   - THREEJS
-=======
   - Web Speech API
   - Camera API
   - WebGL
-  -
+  - 
 
  ## Creative Coding
   - [www.processing.org](ProcessingJS)
   - [http://threejs.org/](THREEJS)
->>>>>>> 33bdb457e6261105fde1e27b7085947c5db374eb
   - OpenFrameworks/ -Kinect
   - [https://creative-computing.appspot.com/](Creative Computing Online Workshop)
 
-#Handy Links
+#Links
 * [http://bkcore.com/blog/3d/shdr-online-glsl-shader-editor-viewer-validator.html](Shdr - Online Shader Editor)
 * [ http://c9.io/logicaroma/sandbox](Cloud9 IDE)
 * [http://threejs.org/editor/](ThreeJS Editor)
@@ -75,3 +71,9 @@ Create a version of www.rmnzr.com. where the eye logo is styled using CSS.
 ##Goal
 Using advanced CSS techniques. Create an animating landing page using only CSS.
 
+=======
+
+#Side Projects
+ `Two devices communicating via Websockets. No apps. No downloads. No tokens. All you need is a modern browser.`
+ * [http://www.html5rocks.com/en/tutorials/casestudies/roll-it/](Roll It | Chrome Experiments)
+ * 
