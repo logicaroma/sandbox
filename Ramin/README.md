@@ -31,10 +31,6 @@ Based on an article at [http://www.html5rocks.com/en/tutorials/casestudies/natge
   - NodeJS
   - Hardware API's (e.g. camera, location)
   - Websockets
-
- - Creative Coding
-  - ProcessingJS
-  - THREEJS
   - Web Speech API
   - Camera API
   - WebGL
@@ -42,14 +38,18 @@ Based on an article at [http://www.html5rocks.com/en/tutorials/casestudies/natge
 
  ## Creative Coding
   - [www.processing.org](ProcessingJS)
+  - [https://github.com/logicaroma/arbor](arborjs)
   - [http://threejs.org/](THREEJS)
-  - OpenFrameworks/ -Kinect
-  - [https://creative-computing.appspot.com/](Creative Computing Online Workshop)
+  - [https://github.com/logicaroma/Skeleton](Skeleton)
+  - [https://github.com/logicaroma/processing-openkinect](Processing OpenKinect)
+  - [http://www.openframeworks.cc/](OpenFrameworks)
 
 #Links
 * [http://bkcore.com/blog/3d/shdr-online-glsl-shader-editor-viewer-validator.html](Shdr - Online Shader Editor)
-* [ http://c9.io/logicaroma/sandbox](Cloud9 IDE)
+* [http://c9.io/logicaroma/sandbox](Cloud9 IDE)
 * [http://threejs.org/editor/](ThreeJS Editor)
+* [https://script.google.com/intro?hl=en](Google Drive Script)
+* [https://creative-computing.appspot.com/](Creative Computing Online Workshop)
 
 
 #Overall Goals
@@ -76,4 +76,4 @@ Using advanced CSS techniques. Create an animating landing page using only CSS.
 #Side Projects
  `Two devices communicating via Websockets. No apps. No downloads. No tokens. All you need is a modern browser.`
  * [http://www.html5rocks.com/en/tutorials/casestudies/roll-it/](Roll It | Chrome Experiments)
- * 
+ * [https://github.com/logicaroma/Rotoscoper](Rotoscoper)
