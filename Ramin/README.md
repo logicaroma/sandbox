@@ -18,7 +18,7 @@ The sanbox projects made by Ramin Mohammadi (twitter.com/RMNZR)
  * CSS Shapes
  * CSS Transitions
  * SVG
- * CSS
+
 
 ### Next Generation Layout Techniques
 Based on an article at [http://www.html5rocks.com/en/tutorials/casestudies/natgeo/](html5rocks)
@@ -27,6 +27,7 @@ Based on an article at [http://www.html5rocks.com/en/tutorials/casestudies/natge
   - Sass/ Compass
   - Parallax Scrolling
 
+======
 
  ## Development (Mobile/Web)
   - Web Workers
@@ -34,7 +35,7 @@ Based on an article at [http://www.html5rocks.com/en/tutorials/casestudies/natge
   - Web Speech API
   - Camera API
   - WebGL
-  -
+
 
  ## Creative Coding
   - [www.processing.org](ProcessingJS)
@@ -47,6 +48,12 @@ Based on an article at [http://www.html5rocks.com/en/tutorials/casestudies/natge
 * [ http://c9.io/logicaroma/sandbox](Cloud9 IDE)
 * [http://threejs.org/editor/](ThreeJS Editor)
 
+#Overall Goals
+- be clear (clean/readable)
+- follow best practices
+- follow standards when possible
+- respect the Web
+
 
 #Case 1
 =======
@@ -54,6 +61,9 @@ Create a version of www.rmnzr.com. where the eye logo is styled using CSS.
 * It should be animating (some form of intro)
 * The parts should be drawn on a canvas/ (with) svg
 * Parallax scrolling
+* Open/Close the eye
+* Draw eye
+* arrange links around the eye
 
 
 
