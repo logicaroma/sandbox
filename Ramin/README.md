@@ -1,25 +1,60 @@
 #Introduction
 =======
 The sanbox projects made by Ramin Mohammadi (twitter.com/RMNZR)
-View the project in Could9 IDE http://c9.io/logicaroma/sandbox
 
 #Overview
 =======
 
- - Styling
-  - Advanced
+ ## Styling
+ To get up to date with the latest techniques/ experiments with CSS I'm planning to experiment with the following features.
+
+ * CSS Regions
+ * CSS Shaders
+ * CSS Masking
+ * CSS Filters
+  * Tutorial on [http://alteredqualia.com/css-shaders/article/](custom filters)
+ * CSS Custom Filters
+ * CSS Exclusions
+ * CSS Shapes
+ * CSS Transitions
+ * SVG
+ * CSS
+
+### Next Generation Layout Techniques
+Based on an article at [http://www.html5rocks.com/en/tutorials/casestudies/natgeo/](html5rocks)
+  - Layout Independent
   - Responsive
   - Sass/ Compass
+  - Parallax Scrolling
 
- - Web Development
+
+ ## Development (Mobile/Web)
   - Web Workers
   - NodeJS
+<<<<<<< HEAD
   - Hardware API's (e.g. camera, location)
 
  - Creative Coding
   - ProcessingJS
   - THREEJS
+=======
+  - Web Speech API
+  - Camera API
+  - WebGL
+  -
+
+ ## Creative Coding
+  - [www.processing.org](ProcessingJS)
+  - [http://threejs.org/](THREEJS)
+>>>>>>> 33bdb457e6261105fde1e27b7085947c5db374eb
   - OpenFrameworks/ -Kinect
+  - [https://creative-computing.appspot.com/](Creative Computing Online Workshop)
+
+#Handy Links
+* [http://bkcore.com/blog/3d/shdr-online-glsl-shader-editor-viewer-validator.html](Shdr - Online Shader Editor)
+* [ http://c9.io/logicaroma/sandbox](Cloud9 IDE)
+* [http://threejs.org/editor/](ThreeJS Editor)
+
 
 #Overall Goals
 - be clear (clean/readable)
@@ -30,10 +65,13 @@ View the project in Could9 IDE http://c9.io/logicaroma/sandbox
 
 #Case 1
 =======
-Create a version of www.rmnzr.com. where the eye logo is styled using CSS. It should be animating (some form of intro) 
+Create a version of www.rmnzr.com. where the eye logo is styled using CSS.
+* It should be animating (some form of intro)
+* The parts should be drawn on a canvas/ (with) svg
+* Parallax scrolling
+
+
 
 ##Goal
-Using advanced CSS techniques. Create an interactive landing page using only CSS.
-
-
+Using advanced CSS techniques. Create an animating landing page using only CSS.
 
