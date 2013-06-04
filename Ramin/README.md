@@ -10,7 +10,7 @@ The sanbox projects made by Ramin Mohammadi (twitter.com/RMNZR)
  * CSS Shaders
  * CSS Masking
  * CSS Filters
-  * Tutorial on [http://alteredqualia.com/css-shaders/article/](custom filters)
+  * Tutorial on [custom filters http://alteredqualia.com/css-shaders/article/]
  * CSS Custom Filters
  * CSS Exclusions
  * CSS Shapes
@@ -19,7 +19,7 @@ The sanbox projects made by Ramin Mohammadi (twitter.com/RMNZR)
  * CSS
 
 ## Next Generation Layout Techniques
-Based on an article at [http://www.html5rocks.com/en/tutorials/casestudies/natgeo/](html5rocks)
+Based on an article at [html5rocks http://www.html5rocks.com/en/tutorials/casestudies/natgeo/]
   - Layout Independent
   - Responsive
   - Sass/ Compass
@@ -39,7 +39,7 @@ Based on an article at [http://www.html5rocks.com/en/tutorials/casestudies/natge
  ## Creative Coding
   - [www.processing.org](ProcessingJS)
   - [https://github.com/logicaroma/arbor](arborjs)
-  - [http://threejs.org/ THREEJS]
+  - [ThreeJS http://threejs.org/]
   - http://codeflow.org/entries/2013/feb/22/how-to-write-portable-webgl/
   - [https://github.com/logicaroma/Skeleton](Skeleton)
   - [https://github.com/logicaroma/processing-openkinect](Processing OpenKinect)
@@ -48,17 +48,15 @@ Based on an article at [http://www.html5rocks.com/en/tutorials/casestudies/natge
 #Links
 * [http://bkcore.com/blog/3d/shdr-online-glsl-shader-editor-viewer-validator.html](Shdr - Online Shader Editor)
 * [http://c9.io/logicaroma/sandbox](Cloud9 IDE)
-* [http://threejs.org/editor/](ThreeJS Editor)
+* [ThreeJS Editor http://threejs.org/editor/ ]
 * [https://script.google.com/intro?hl=en](Google Drive Script)
 * [https://creative-computing.appspot.com/](Creative Computing Online Workshop)
-
 
 #Overall Goals
 - be clear (clean/readable)
 - follow best practices
 - follow standards when possible
 - respect the Web
-
 
 #Case 1
 =======
@@ -67,14 +65,11 @@ Create a version of www.rmnzr.com. where the eye logo is styled using CSS.
 * The parts should be drawn on a canvas/ (with) svg
 * Parallax scrolling
 
-
-
 ##Goal
 Using advanced CSS techniques. Create an animating landing page using only CSS.
-
 =======
 
 #Side Projects
  `Two devices communicating via Websockets. No apps. No downloads. No tokens. All you need is a modern browser.`
- * [http://www.html5rocks.com/en/tutorials/casestudies/roll-it/](Roll It | Chrome Experiments)
- * [https://github.com/logicaroma/Rotoscoper Rotoscoper]
+ * [Roll It | Chrome Experiments http://www.html5rocks.com/en/tutorials/casestudies/roll-it/]
+ * [Rotoscoper https://github.com/logicaroma/Rotoscoper]
