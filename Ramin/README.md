@@ -3,7 +3,7 @@ The sanbox projects made by Ramin Mohammadi (twitter.com/RMNZR)
 
 #Overview
 
- ## Styling
+## Styling
  To get up to date with the latest techniques/ experiments with CSS I'm planning to experiment with the following features.
 
  * CSS Regions
@@ -39,7 +39,8 @@ Based on an article at [http://www.html5rocks.com/en/tutorials/casestudies/natge
  ## Creative Coding
   - [www.processing.org](ProcessingJS)
   - [https://github.com/logicaroma/arbor](arborjs)
-  - [http://threejs.org/](THREEJS)
+  - [http://threejs.org/ THREEJS]
+  - http://codeflow.org/entries/2013/feb/22/how-to-write-portable-webgl/
   - [https://github.com/logicaroma/Skeleton](Skeleton)
   - [https://github.com/logicaroma/processing-openkinect](Processing OpenKinect)
   - [http://www.openframeworks.cc/](OpenFrameworks)
@@ -76,4 +77,4 @@ Using advanced CSS techniques. Create an animating landing page using only CSS.
 #Side Projects
  `Two devices communicating via Websockets. No apps. No downloads. No tokens. All you need is a modern browser.`
  * [http://www.html5rocks.com/en/tutorials/casestudies/roll-it/](Roll It | Chrome Experiments)
- * [https://github.com/logicaroma/Rotoscoper](Rotoscoper)
+ * [https://github.com/logicaroma/Rotoscoper Rotoscoper]
