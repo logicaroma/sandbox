@@ -66,8 +66,9 @@ Create a version of www.rmnzr.com. where the eye logo is styled using CSS.
 * Parallax scrolling
 
 ##Goal
-Using advanced CSS techniques. Create an animating landing page using only CSS.
 =======
+Using advanced CSS techniques. Create an animating landing page using only CSS.
+
 
 #Side Projects
  `Two devices communicating via Websockets. No apps. No downloads. No tokens. All you need is a modern browser.`
