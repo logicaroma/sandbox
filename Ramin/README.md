@@ -1,18 +1,16 @@
 #Introduction
-=======
 The sanbox projects made by Ramin Mohammadi (twitter.com/RMNZR)
 
 #Overview
-=======
 
- ## Styling
+## Styling
  To get up to date with the latest techniques/ experiments with CSS I'm planning to experiment with the following features.
 
  * CSS Regions
  * CSS Shaders
  * CSS Masking
  * CSS Filters
-  * Tutorial on [http://alteredqualia.com/css-shaders/article/](custom filters)
+  * Tutorial on [custom filters http://alteredqualia.com/css-shaders/article/]
  * CSS Custom Filters
  * CSS Exclusions
  * CSS Shapes
@@ -20,8 +18,8 @@ The sanbox projects made by Ramin Mohammadi (twitter.com/RMNZR)
  * SVG
  * CSS
 
-### Next Generation Layout Techniques
-Based on an article at [http://www.html5rocks.com/en/tutorials/casestudies/natgeo/](html5rocks)
+## Next Generation Layout Techniques
+Based on an article at [html5rocks http://www.html5rocks.com/en/tutorials/casestudies/natgeo/]
   - Layout Independent
   - Responsive
   - Sass/ Compass
@@ -32,14 +30,14 @@ Based on an article at [http://www.html5rocks.com/en/tutorials/casestudies/natge
   - Web Workers
   - NodeJS
   - Hardware API's (e.g. camera, location)
-
  - Creative Coding
   - ProcessingJS
   - THREEJS
+  - Websockets
   - Web Speech API
   - Camera API
   - WebGL
-  -
+  - 
 
  ## Creative Coding
   - [www.processing.org](ProcessingJS)
@@ -48,17 +46,25 @@ Based on an article at [http://www.html5rocks.com/en/tutorials/casestudies/natge
   - [https://creative-computing.appspot.com/](Creative Computing Online Workshop)
 
 #Handy Links
-* [http://bkcore.com/blog/3d/shdr-online-glsl-shader-editor-viewer-validator.html](Shdr - Online Shader Editor)
-* [ http://c9.io/logicaroma/sandbox](Cloud9 IDE)
-* [http://threejs.org/editor/](ThreeJS Editor)
+  - [https://github.com/logicaroma/arbor](arborjs)
+  - [ThreeJS http://threejs.org/]
+  - http://codeflow.org/entries/2013/feb/22/how-to-write-portable-webgl/
+  - [https://github.com/logicaroma/Skeleton](Skeleton)
+  - [https://github.com/logicaroma/processing-openkinect](Processing OpenKinect)
+  - [http://www.openframeworks.cc/](OpenFrameworks)
 
+#Links
+* [http://bkcore.com/blog/3d/shdr-online-glsl-shader-editor-viewer-validator.html](Shdr - Online Shader Editor)
+* [http://c9.io/logicaroma/sandbox](Cloud9 IDE)
+* [ThreeJS Editor http://threejs.org/editor/ ]
+* [https://script.google.com/intro?hl=en](Google Drive Script)
+* [https://creative-computing.appspot.com/](Creative Computing Online Workshop)
 
 #Overall Goals
 - be clear (clean/readable)
 - follow best practices
 - follow standards when possible
 - respect the Web
-
 
 #Case 1
 =======
@@ -83,10 +89,17 @@ Create a version of www.rmnzr.com. where the eye logo is styled using CSS.
 * Make use of shaders to shade the eye logo while scrolling down
 
 ## Fase 4
-* Connect your phone for navigating through the website
-
-
+* Connect your phone for navigating through the website Websockets.
 
 ##Goal
-Using advanced CSS techniques. Create an animating landing page using only CSS.
+=======
+Using advanced CSS techniques. 
+Create an animating landing page using only CSS.
+Getting familiar with Angular. 
+Getting familiar with Websockets. 
 
+
+#Side Projects
+ `Two devices communicating via Websockets. No apps. No downloads. No tokens. All you need is a modern browser.`
+ * [Roll It | Chrome Experiments http://www.html5rocks.com/en/tutorials/casestudies/roll-it/]
+ * [Rotoscoper https://github.com/logicaroma/Rotoscoper]
