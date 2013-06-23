@@ -37,7 +37,7 @@ Based on an article at [html5rocks http://www.html5rocks.com/en/tutorials/casest
   - Web Speech API
   - Camera API
   - WebGL
-  - 
+  -
 
  ## Creative Coding
   - [www.processing.org](ProcessingJS)
@@ -93,13 +93,14 @@ Create a version of www.rmnzr.com. where the eye logo is styled using CSS.
 
 ##Goal
 =======
-Using advanced CSS techniques. 
+Using advanced CSS techniques.
 Create an animating landing page using only CSS.
-Getting familiar with Angular. 
-Getting familiar with Websockets. 
+Getting familiar with Angular.
+Getting familiar with Websockets.
 
 
 #Side Projects
  `Two devices communicating via Websockets. No apps. No downloads. No tokens. All you need is a modern browser.`
  * [Roll It | Chrome Experiments http://www.html5rocks.com/en/tutorials/casestudies/roll-it/]
  * [Rotoscoper https://github.com/logicaroma/Rotoscoper]
+ * [http://www.initializr.com/](Create custom Initializr builders to create custom project setup)
