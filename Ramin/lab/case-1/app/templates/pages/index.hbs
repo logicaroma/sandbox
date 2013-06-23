@@ -1,0 +1,14 @@
+---
+title: Home
+---
+ <div class="container">
+	<div class="hero-unit">
+		<h1>{{ title }}</h1>
+		<article>
+			{{! content from the path specified }}
+			{{!md 'src/content/code.md'}}
+			<!-- partials.eye -->
+			{{> eye }}
+		</article>
+	</div>
+</div>

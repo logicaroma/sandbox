@@ -1,0 +1,9 @@
+//@import 'sass-bootstrap/lib/bootstrap';
+@import '_variables';
+@import '_partials.eye';
+@import '_partials.nav';
+
+.hero-unit {
+    margin: 50px auto 0 auto;
+    width: 300px;
+}
