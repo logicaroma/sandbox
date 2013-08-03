@@ -1,3 +1,6 @@
 [submodule "Ramin/lab/rmnzr.com"]
 	path = Ramin/lab/rmnzr.com
 	url = https://logicaroma@github.com/logicaroma/rmnzr.git
+[submodule "Ramin/lab/sma"]
+	path = Ramin/lab/sma
+	url = https://logicaroma@github.com/logicaroma/sma.git
