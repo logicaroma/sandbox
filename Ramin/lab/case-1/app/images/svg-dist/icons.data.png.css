@@ -1,0 +1,2 @@
+/* Using an external URL reference because this image would have a data URI of 39992 characters, which is greater than the maximum of 32768 allowed by IE8. */
+.icon-eye { background-image: url(png/eye.png); background-repeat: no-repeat; }

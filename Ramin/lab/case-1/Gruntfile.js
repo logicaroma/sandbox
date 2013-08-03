@@ -41,7 +41,7 @@ module.exports = function (grunt) {
 					'<%= yeoman.app %>/*.html',
 					'{.tmp,<%= yeoman.app %>}/styles/{,*/}*.css',
 					'{.tmp,<%= yeoman.app %>}/scripts/{,*/}*.js',
-					'<%= yeoman.app %>/images/{,*/}*.{png,jpg,jpeg,webp}',
+					'<%= yeoman.app %>/images/{,*/}*.{png,jpg,jpeg,webp,svg,txt}',
 					'<%= yeoman.app %>/templates/{,*/}*.hbs',
 				],
 				tasks: ['assemble', 'livereload']
@@ -181,10 +181,13 @@ module.exports = function (grunt) {
 				flatten: true,
 				layout: '<%= yeoman.app %>/templates/layouts/default.hbs',
 				partials: ['<%= yeoman.app %>/templates/partials/*.hbs'],
+				pages: ['<%= yeoman.app %>/templates/pages/*.hbs'],
+				engine: 'handlebars'
 			},
 			pages: {
 				files: {
-					'<%= yeoman.app %>/': ['<%= yeoman.app %>/templates/pages/*.hbs', '!<%= yeoman.app %>/templates/pages/index.hbs']
+					expand: true,
+					src: ['<%= yeoman.app %>/templates/pages/*.hbs']
 				}
 			},
 			index: {
@@ -289,7 +292,9 @@ module.exports = function (grunt) {
 			}
 		}
 	});
-
+	grunt.loadNpmTasks('assemble');
+	// grunt.loadNpmTasks('assemble-handlebars');
+	grunt.loadNpmTasks('grunt-grunticon');
 	grunt.renameTask('regarde', 'watch');
 
 	grunt.registerTask('server', function (target) {
@@ -335,7 +340,6 @@ module.exports = function (grunt) {
 
 	grunt.registerTask('default', [
 		'jshint',
-		'test',
 		'build'
 	]);
 };

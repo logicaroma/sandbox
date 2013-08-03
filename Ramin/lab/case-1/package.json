@@ -24,6 +24,7 @@
     "grunt-open": "~0.2.0",
     "grunt-grunticon": "0.3.3",
     "grunt-bower-requirejs": "0.4.4",
+    "assemble-handlebars": "0.1.2",
     "assemble": "~0.4.0",
     "matchdep": "~0.1.1"
   },
